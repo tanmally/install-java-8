@@ -1,5 +1,5 @@
-name : Install Oracle Java 8 on Ubunutu
-desc : The recipe installs oracle jdk 8 on Ubunutu  
+name : Install Oracle Java 8 on Ubuntu
+desc : The recipe installs oracle jdk 8 on Ubuntu  
 logo_url: https://raw.githubusercontent.com/tanmally/install-java-8/master/logo/Java8.png
 tags:
     - java 8
